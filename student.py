@@ -1,5 +1,5 @@
 # 在这里写上你的代码 :-)
-def edd_student(students:dict):
+def add_student(students:dict):
     """添加学生到学籍字典"""
     sid = input("请输入编号：")
     name = input("请输入名字：")
